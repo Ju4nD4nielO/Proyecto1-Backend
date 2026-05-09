@@ -3,8 +3,8 @@
 REST API para el proyecto Games Tracker, construida con Node.js, Express y PostgreSQL.
 
 ## 🔗 Links
-- **Frontend repo**: [link al repo del frontend]
-- **App en producción**: [link de render]
+- **Frontend repo**: https://github.com/Ju4nD4nielO/Proyecto1-frontend
+- **App en producción**: https://games-tracker-front2.onrender.com/
 
 ## 🛠 Tech Stack
 - Node.js + Express
