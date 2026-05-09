@@ -21,7 +21,6 @@ REST API para el proyecto Games Tracker, construida con Node.js, Express y Postg
 ```bash
 # 1. Clonar el repo 
 git clone https://github.com/Ju4nD4nielO/Proyecto1-Backend
-cd Proyecto1-FullStack
 
 # 2. Instalar dependencias
 npm install
